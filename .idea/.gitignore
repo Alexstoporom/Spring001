@@ -1,5 +1,8 @@
 # Default ignored files
 /workspace.xml
+/compiler.xml
+/misc.xml
+/vcs.xml
 
 # Compiled class file
 *.class
